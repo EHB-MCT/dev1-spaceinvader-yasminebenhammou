@@ -42,7 +42,7 @@ function drawSpaceinvader() {
     context.fillStyle = "#00ff00";
     context.fill();
 
-//---------
+    //---------
 
     context.beginPath();
     context.rect(75, 125, 50, 50);
@@ -70,33 +70,33 @@ function drawSpaceinvader() {
     context.fillStyle = "#00ff00";
     context.fill();
 
-//---------
+    //---------
 
-context.beginPath();
-context.rect(75, 175, 50, 50);
-context.fillStyle = "#00ff00";
-context.fill();
+    context.beginPath();
+    context.rect(75, 175, 50, 50);
+    context.fillStyle = "#00ff00";
+    context.fill();
 
 
-context.beginPath();
-context.rect(125, 175, 50, 50);
-context.fillStyle = "#00ff00";
-context.fill();
+    context.beginPath();
+    context.rect(125, 175, 50, 50);
+    context.fillStyle = "#00ff00";
+    context.fill();
 
-context.beginPath();
-context.rect(175, 175, 50, 50);
-context.fillStyle = "#00ff00";
-context.fill();
+    context.beginPath();
+    context.rect(175, 175, 50, 50);
+    context.fillStyle = "#00ff00";
+    context.fill();
 
-context.beginPath();
-context.rect(225, 175, 50, 50);
-context.fillStyle = "#00ff00";
-context.fill();
+    context.beginPath();
+    context.rect(225, 175, 50, 50);
+    context.fillStyle = "#00ff00";
+    context.fill();
 
-context.beginPath();
-context.rect(275, 175, 50, 50);
-context.fillStyle = "#00ff00";
-context.fill();
+    context.beginPath();
+    context.rect(275, 175, 50, 50);
+    context.fillStyle = "#00ff00";
+    context.fill();
 
     //----------
 
@@ -122,7 +122,7 @@ context.fill();
     context.fill();
 
     context.beginPath();
-    context.rect(175,275, 50, 50);
+    context.rect(175, 275, 50, 50);
     context.fillStyle = "#00ff00";
     context.fill();
 
